@@ -6,6 +6,7 @@
 //Break things down into smaller steps and take each step at a time.
 
 
+
 // Event handling, user interaction is what starts the code execution.
 
 var taskInput=document.getElementById("new-task");//Add a new task.
